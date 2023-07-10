@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Agenda de Contatos" src="./images/image.png" width="100%">
+  <img alt="Agenda de Contatos" src="./image.png" width="100%">
 </p>
 
 ## Tecnologias
