@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="./index.css">
+   <title>Agenda de Contatos</title>
+</head>
+<body>
+   <h1>Agenda de Contatos</h1>
+   <section class="container-form">
+     <h2>Adicionar novo contato</h2>
+     <form id="contact-form">
+       <input type="text" id="nome" placeholder="Nome" required>
+       <input type="text" id="telefone" placeholder="Telefone" required>
+       <button type="submit"> + </button>
+     </form>
+   </section>
+   <section class="container-contacts">
+    <h2>Contatos</h2>
+     <table id="contact-table">
+       <tr>
+         <th class="contact-name">Nome</th>
+         <th class="contact-phone">Telefone</th>
+       </tr>
+     </table>
+   </section>
+   <script src="./index.js"></script>
+</body>
+</html>
