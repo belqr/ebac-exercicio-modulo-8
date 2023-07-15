@@ -18,12 +18,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- JQuery
 - Git
 - GitHub
 
 ## Projeto
 
-A Agenda de Contatos é um projeto criado a partir das aulas do curso de engenheiro front-end da Instituição EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+A Galeria de imagens é um projeto criado a partir das aulas do curso de engenheiro front-end da Instituição EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
 - [Visite o projeto online](https://ebac-exercicio-modulo8.vercel.app/?vercelToolbarCode=R7aWjDDVwBjcvOg)
 
